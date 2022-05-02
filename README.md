@@ -1,7 +1,7 @@
 
 <h1 align="center">
 	Walter Livingston<br>
-	<a href="https://www.linkedin.com/in/kakbar">
+	<a href="https://www.linkedin.com/in/walter-livingston/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </h1>
 
@@ -11,7 +11,7 @@ I am a Senior Mechanical Engineer at Auburn University
 - I am interested in Controls Design and Manufacturing.
 - I have extensive experience in the IT field.
 - Programming is a passion of mine.
-- How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-walterlivingston-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-walterlivingston-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-livingston/)
 
 ---
 
