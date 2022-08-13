@@ -27,6 +27,7 @@ I am a Senior Mechanical Engineer at Auburn University
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg?sanitize=true" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg?sanitize=true" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg?sanitize=true" title="Processing" alt="Processing" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg?sanitize=true" title="C++" alt="C Plus Plus" width="40" height="40"/>&nbsp;
 </p>
 
 ---
