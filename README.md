@@ -7,7 +7,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Senior Mechanical Engineer at Auburn University
+I am a Mechanical Design Engineer at Premier Tech
 - I am interested in Controls Design and Manufacturing.
 - I have extensive experience in the IT field.
 - Programming is a passion of mine.
