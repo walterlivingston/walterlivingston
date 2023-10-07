@@ -7,10 +7,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Mechanical Design Engineer at Premier Tech
-- I am interested in Controls Design and Manufacturing.
-- I have extensive experience in the IT field.
-- Programming is a passion of mine.
+I am a Master's student in Mechanical Engineering at Auburn University
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-walterlivingston-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-livingston/)
 
 ---
