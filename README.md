@@ -8,7 +8,6 @@
 ### :man_technologist: &nbsp;About Me :
 
 I am a Master's student in Mechanical Engineering at Auburn University
-- How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-walterlivingston-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-livingston/)
 
 ---
 
